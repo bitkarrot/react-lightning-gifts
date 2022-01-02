@@ -30,7 +30,6 @@ function updateApplicationState(state, { isLoading, initialised }) {
     };
 }
 
-
 /**
  * Update error state.
  * @param {object} state - Application state
